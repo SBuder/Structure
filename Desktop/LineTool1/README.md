@@ -6,7 +6,7 @@
 |---|---|---|
 |v 1.0|8.0|New LineTool supporting ...|
 |v 2.0|9.0|Upgraded to 9.0 ...|
-|v 3.0|9.0|Added support for ...|
+|v 2.1|9.0|Added support for ...|
 
 ## Installation / Prerequisites
 
