@@ -3,8 +3,8 @@
 # ChangeLog
 |Branch|Feature|ProductVersion|Comment|
 |---|
-|v 1.0|[LineTool1](https://github.com/SBuder/Structure/tree/master/Desktop/LineTool1|8.0)|New LineTool supporting ...|
-|v 2.0| ... | ... |
+|v 1.0|[LineTool1](https://github.com/SBuder/Structure/tree/master/Desktop/LineTool1)|8.0|New LineTool supporting ...|
+|v 2.0| ... | ... | ... |
 
 ## Note(s):
 - BestPractise is to avoid such collective repositories (Should actually be split up, due to versioning, reusage, ...)
