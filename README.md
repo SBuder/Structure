@@ -3,11 +3,12 @@
 Some introduction explaining our repository. Like install instructions are found in each feature / plugin.
 
 # Feature changelog
-|Branch|Feature|ProductVersion|Comment|
+|Product|Feature|ProductVersion|Comment|
 |---|---|---|---|
-|v 1.0|[LineTool1](https://github.com/SBuder/Structure/tree/master/Desktop/LineTool1)|8.0|New LineTool supporting ...|
-|v 2.0| ... | ... | ... |
-
+|Desktop|[LineTool1](https://github.com/SBuder/Structure/tree/master/Desktop/LineTool1)|8.0|New LineTool supporting ...|
+|Setup| ... | ... | ... |
+|Ace| ... | ... | ... |
+|Desktop| ... | ... | ... |
 ___
 
 ## Note(s):
