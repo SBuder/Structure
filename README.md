@@ -1,5 +1,7 @@
 # Structure
 
+Some introduction explaining our repository. Like install instructions are found in each feature / plugin.
+
 # Feature changelog
 |Branch|Feature|ProductVersion|Comment|
 |---|---|---|---|
