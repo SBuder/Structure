@@ -6,7 +6,7 @@
 |v 1.0|[LineTool1](https://github.com/SBuder/Structure/tree/master/Desktop/LineTool1)|8.0|New LineTool supporting ...|
 |v 2.0| ... | ... | ... |
 
----
+___
 
 ## Note(s):
 - BestPractise is to avoid such collective repositories (Should actually be split up, due to versioning, reusage, ...)
