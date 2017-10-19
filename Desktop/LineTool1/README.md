@@ -8,8 +8,9 @@
 |v 2.0|9.0|Upgraded to 9.0 ...|
 |v 3.0|9.0|Added support for ...|
 
-## Installation
+## Installation / Prerequisites
 
+- Install NuGet / MSI ...
 - Copy File A to B
 - Change Configuration Key "Key" in \path\subfolder\web.config to "Value"
 
